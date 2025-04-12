@@ -8,7 +8,7 @@ Welcome to the official portfolio of **Tahmid Karim Saad**, a passionate **Compu
 
 - **Phone**: +8801990769940
 - **Email**: [tahmid.karim.saad@gmail.com](mailto:tahmid.karim.saad@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](#)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/tahmid-karim-saad-4u/)
 - **GitHub**: [GitHub Profile](https://github.com/SaadTK)
 - **Portfolio**: [Personal Portfolio](#)
 
