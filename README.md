@@ -42,13 +42,6 @@ Welcome to the official portfolio of **Tahmid Karim Saad**, a passionate **Compu
 - Participated in daily standups and sprint reviews, contributing to a team culture of continuous improvement and learning.  
 - Focused primarily on frontend development and UI/UX enhancements with limited backend involvement.  
 
-### Grocery Store Admin Dashboard (Ongoing)  
-**Tech Stack**: React.js, HTML5, CSS3, Tailwind CSS, DaisyUI  
-
-- Designing and developing a complete admin dashboard for inventory and sales management for a local grocery store.  
-- Implemented reusable components for product listing, analytics, and user controls, improving development speed by 40%.  
-- Focused on clean, intuitive UI with responsive design for both desktop and mobile devices.
-
 ---
 
 ## 📂 Projects
